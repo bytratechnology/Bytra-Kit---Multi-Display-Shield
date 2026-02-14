@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../chuong1_32led_don"
+		},
+		{
+			"path": "../../chuong2_nut_nhan"
+		},
+		{
+			"name": "chuong3_module_led_7doan",
+			"path": "../../chuong3_module_led_7doan"
+		},
+		{
+			"name": "chuong4_hien_thi_lcd",
+			"path": "../../chuong4_hien_thi_lcd"
+		},
+		{
+			"name": "chuong6_module_led_matrix",
+			"path": ".."
+		},
+		{
+			"name": "chuong0_bat_tat_buzzer",
+			"path": "../../chuong0_bat_tat_buzzer"
+		},
+		{
+			"name": "khoi_tao_bytra_kit_multi_display",
+			"path": "../../khoi_tao_bytra_kit_multi_display"
+		}
+	],
+	"settings": {}
+}
